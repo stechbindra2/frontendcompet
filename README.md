@@ -119,4 +119,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For any issues or questions, please open an issue on the GitHub repository or contact the development team at support@example.com.
+For any issues or questions, please open an issue on the GitHub repository or contact the development team at supportfrontend@gmail.com.com.
